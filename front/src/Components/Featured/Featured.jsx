@@ -14,7 +14,7 @@ const Featured = () => {
                 </div>
                 <div className='flex justify-center w-full'> {/* Align the grid to the center */}
                     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                        <div><Card /></div>
+                        <div className=''><Card /></div>
                         <div><Card /></div>
                         <div><Card /></div>
                     </div>
